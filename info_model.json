@@ -1,0 +1,21 @@
+{
+  "nama_model": "Random Forest",
+  "accuracy": 0.8679,
+  "precision": 0.2028,
+  "recall": 0.58,
+  "f1_score": 0.3005,
+  "fitur": [
+    "gender",
+    "age",
+    "hypertension",
+    "heart_disease",
+    "ever_married",
+    "work_type",
+    "Residence_type",
+    "avg_glucose_level",
+    "bmi",
+    "smoking_status",
+    "age_group",
+    "bmi_category"
+  ]
+}
